@@ -1,0 +1,19 @@
+{
+  "name": "@edose/react-native-linkedin",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edohartono/react-native-linkedin.git"
+  },
+  "author": "Edo Setiawan <edosetiawan.me@gmail.com> (https://www.npmjs.com/~edosetia)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edohartono/react-native-linkedin/issues"
+  },
+  "homepage": "https://github.com/edohartono/react-native-linkedin#readme"
+}
