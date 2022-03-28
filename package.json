@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/edohartono/react-native-linkedin/issues"
   },
-  "homepage": "https://github.com/edohartono/react-native-linkedin#readme"
+  "homepage": "https://github.com/edohartono/react-native-linkedin#readme",
+  "keywords": [
+    "react-native",
+    "linkedin-oauth2",
+    "react-native-linkedin",
+    "linkedin",
+    "signin-with-linkedin"
+  ]
 }
