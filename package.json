@@ -2,9 +2,10 @@
   "name": "@edose/react-native-linkedin",
   "version": "1.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minor": "npm version patch"
   },
   "repository": {
     "type": "git",
